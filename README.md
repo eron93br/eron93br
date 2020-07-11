@@ -7,7 +7,7 @@ Skills involved in my main tasks:
 - Firmware development (C, C++ and Python)
 - Hardware testing: planning and execution of hardware automated and manual tests
 
-# Work in progres..
+# Work in progress..
 
 I’m currently working on an IoT project that involves the use of Sigfox technology to develop a medical product to assist people that are being treated with oxygen therapy.
 
