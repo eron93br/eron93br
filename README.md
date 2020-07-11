@@ -1,4 +1,23 @@
-### Hi there 👋
+
+Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as an Embedded Systems Engineer at CESAR (@inovacaocesar). My main activities are related to the development of proof of concept and prototype of innovative solutions.
+
+Skills involved in my main tasks:
+
+- PCB Design (Altium Designer)
+- Firmware development (C, C++ and Python)
+- Hardware testing: planning and execution of hardware automated and manual tests
+
+# Work in progres..
+
+I’m currently working on an IoT project that involves the use of Sigfox technology to develop a medical product to assist people that are being treated with oxygen therapy.
+
+# Always learning
+
+I’m currently learning more about machine learning techniques and data science applied to finance. 
+
+# Colaboration 
+
+Please feel free to contact/ask me about IoT with hardware/firmware development. I'm also a member of The Things Network community in my city, Recife-PE, Brazil. 
 
 <!--
 **eron93br/eron93br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
