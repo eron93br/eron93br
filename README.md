@@ -19,6 +19,12 @@ I’m currently learning more about machine learning techniques and data science
 
 Please feel free to contact/ask me about IoT with hardware/firmware development. I'm also a member of The Things Network community in my city, Recife-PE, Brazil. 
 
+# Research
+
+- carOBD database
+
+carOBD is a open-source repository, that describes an OBD-II dataset adquired during my master thesis *If you use PLEASE CITE MY ARTCILE AS REFERENCE OF THE DATABASE*. The work of my master thesis (`Detecting Anomalies in the Engine Coolant Sensor Using One-Class Classifiers`) are available ate [IEEE](https://ieeexplore.ieee.org/abstract/document/8891367).
+
 <!--
 **eron93br/eron93br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
