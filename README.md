@@ -24,7 +24,7 @@ In addition to my work, I also work as an Embedded Hardware Engineer in consulti
 
 # Always learning
 
-I’m currently learning more about machine learning techniques and data science applied to finance. 
+- I’m currently learning more about machine learning techniques and data science applied to finance and 5G networks.
 
 # Research Projects 
 
