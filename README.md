@@ -13,14 +13,12 @@ Skills involved in my main tasks:
 - PCB Design (Altium Designer)
 - Firmware development (C, C++ and Python)
 - Hardware testing: planning and execution of hardware automated and manual tests
+- Data Analysis 
 
 # Work in progress..
 
 I’m currently working on an IoT project that involves the use of Sigfox technology to develop a medical product to assist people that are being treated with oxygen therapy.
 
-# Embedded Hardware Engineering consultant
-
-In addition to my work, I also work as an Embedded Hardware Engineer in consulting/freelance projects. I would love to hear about your project and see what I can help you.
 
 # Always learning
 
