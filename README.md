@@ -6,23 +6,21 @@
 
 
 
-Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as an Embedded Systems Engineer at CESAR (@inovacaocesar). My main activities are related to the development of proof of concept and prototype of innovative solutions.
+Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as an Computer Engineer at CESAR (@inovacaocesar). My main activities are related to the development of proof of concept and prototype of innovative solutions.
 
 Skills involved in my main tasks:
 
+- Software development based on Python
+- Data Analysis
+- Evaluation of Machine Learning models applied to problem solving
 - PCB Design (Altium Designer)
-- Firmware development (C, C++ and Python)
+- Firmware development (C/C++)
 - Hardware testing: planning and execution of hardware automated and manual tests
-- Data Analysis 
+
 
 # Work in progress..
 
-I’m currently working on an IoT project that involves the use of Sigfox technology to develop a medical product to assist people that are being treated with oxygen therapy.
-
-
-# Always learning
-
-- I’m currently learning more about machine learning techniques and data science applied to finance and 5G networks.
+I’m currently finishing my specilization in Data Analysis and Engineering
 
 # Research Projects 
 
