@@ -10,11 +10,10 @@ Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer
 
 Skills involved in my main tasks:
 
-- Software development based on Python
-- Data Analysis
+- Firmware development based on C/C++
+- Data Analysis and exploration based on Python
 - Evaluation of Machine Learning models applied to problem solving
 - PCB Design (Altium Designer)
-- Firmware development (C/C++)
 - Hardware testing: planning and execution of hardware automated and manual tests
 
 
