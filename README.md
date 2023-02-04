@@ -17,10 +17,6 @@ Skills involved in my main tasks:
 - Hardware testing: planning and execution of hardware automated and manual tests
 
 
-# Work in progress..
-
-I’m currently finishing my specilization in Data Analysis and Engineering
-
 # Research Projects 
 
 - carOBD database
