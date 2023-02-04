@@ -16,12 +16,15 @@ Skills involved in my main tasks:
 - PCB Design (Altium Designer)
 - Hardware testing: planning and execution of hardware automated and manual tests
 
-
 # Research Projects 
 
 - carOBD database
 
 carOBD is a open-source repository, that describes an OBD-II dataset adquired during my master thesis *If you use PLEASE CITE MY ARTCILE AS REFERENCE OF THE DATABASE*. The work of my master thesis (`Detecting Anomalies in the Engine Coolant Sensor Using One-Class Classifiers`) are available ate [IEEE](https://ieeexplore.ieee.org/abstract/document/8891367).
+
+# Teaching repos
+
+Some of my open repositories are related to programming classes at [CESAR School](https://www.cesar.school/#)
 
 # Colaboration 
 
