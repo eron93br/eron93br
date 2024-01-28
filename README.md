@@ -2,8 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eron93br)](https://github.com/eron93br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)](https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eron93@gmail.com)](mailto:eron93@gmail.com)
-
 
 
 Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as an Computer Engineer at CESAR (@inovacaocesar). My main activities are related to the development of proof of concept and prototype of innovative solutions.
