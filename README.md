@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)](https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)
 
 
-Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as an Computer Engineer at CESAR (@inovacaocesar). My main activities are related to the development of proof of concept and prototype of innovative solutions.
+Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as a Software Engineer at SERPRO (https://www.serpro.gov.br/). My main activities are related to the development of proof of concept and prototype of innovative solutions.
 
 Skills involved in my main tasks:
 
