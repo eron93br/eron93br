@@ -4,16 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)](https://www.linkedin.com/in/eronides-da-silva-neto-195750a6/)
 
 
-Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as a Software Engineer at SERPRO (https://www.serpro.gov.br/). My main activities are related to the development of proof of concept and prototype of innovative solutions.
-
-Skills involved in my main tasks:
-
-- Data Analysis and exploration based on Python
-- API development
-- Firmware development based on C/C++
-- Evaluation of Machine Learning models applied to problem solving
-- PCB Design (Altium Designer)
-- Hardware testing: planning and execution of hardware automated and manual tests
+Hi, my name is Eronides Neto, you can call me **Eron**. I have a MSc in computer science and a BSc in Electronic Engineering. Currently, I'm working as a Software Engineer at SERPRO (https://www.serpro.gov.br/). My main activities are related to softwareve development, and the development of proof of concept and prototype of innovative solutions.
 
 # Research Projects 
 
@@ -27,7 +18,7 @@ Some of my open repositories are related to programming classes at [CESAR School
 
 # Colaboration 
 
-Please feel free to contact/ask me about IoT with hardware/firmware development. I'm also a member of The Things Network community in my city, Recife-PE, Brazil. 
+Please feel free to contact/ask me about any research project I'm related to. 
 
 <!--
 **eron93br/eron93br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
